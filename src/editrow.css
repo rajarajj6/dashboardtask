@@ -1,0 +1,13 @@
+.cancelbtn {
+  background-color: blue;
+  color: white;
+  border-color: red;
+  border-radius: 20px;
+}
+
+.savebtn {
+  background-color: greenyellow;
+  border-color: greenyellow;
+  border-radius: 20px;
+  color: black;
+}

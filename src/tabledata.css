@@ -1,0 +1,16 @@
+.deletebtn {
+  background-color: gold;
+  border-color: gold;
+  border-radius: 20px;
+}
+
+.editbtn {
+  background-color: black;
+  border-color: red;
+  border-radius: 20px;
+  color: white;
+}
+
+td {
+  text-align: center;
+}
